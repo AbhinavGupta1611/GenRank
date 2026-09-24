@@ -2,6 +2,10 @@
 
 **GenRank: Regionalization of Equifinal Parameter Vectors at Ungauged Basins** authored by Abhinav Gupta and Mukesh Kumar
 
+<p align="center">
+  <img src="figures/github_schematic.png" width="900">
+</p>
+
 This repository contains the code associated with the paper **"Regionalization of the equifinal parameter vectors at ungauged basins."**
 
 The project develops neural-network-based approaches for regionalizing **equifinal parameter ensembles** of a conceptual hydrological model from gauged to ungauged basins. The repository also includes a complementary neural-network framework for predicting hydrological model performance from model parameters and basin attributes.
