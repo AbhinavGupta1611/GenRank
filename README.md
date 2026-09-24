@@ -3,7 +3,7 @@
 **GenRank: Regionalization of Equifinal Parameter Vectors at Ungauged Basins** authored by Abhinav Gupta and Mukesh Kumar
 
 <p align="center">
-  <img src="figures/github_schematic.png" width="900">
+  <img src="github_schematic.png" width="900">
 </p>
 
 This repository contains the code associated with the paper **"Regionalization of the equifinal parameter vectors at ungauged basins."**
